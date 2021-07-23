@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://adoel90.github.io/csb-cdg0n/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "https://adoel90.github.io/csb-cdg0n/static/js/main.2e722eba.chunk.js",
+    "main.js.map": "https://adoel90.github.io/csb-cdg0n/static/js/main.2e722eba.chunk.js.map",
+    "runtime-main.js": "https://adoel90.github.io/csb-cdg0n/static/js/runtime-main.2fdbe6a0.js",
+    "runtime-main.js.map": "https://adoel90.github.io/csb-cdg0n/static/js/runtime-main.2fdbe6a0.js.map",
+    "static/js/2.8569702b.chunk.js": "https://adoel90.github.io/csb-cdg0n/static/js/2.8569702b.chunk.js",
+    "static/js/2.8569702b.chunk.js.map": "https://adoel90.github.io/csb-cdg0n/static/js/2.8569702b.chunk.js.map",
+    "static/js/3.c51dc53f.chunk.js": "https://adoel90.github.io/csb-cdg0n/static/js/3.c51dc53f.chunk.js",
+    "static/js/3.c51dc53f.chunk.js.map": "https://adoel90.github.io/csb-cdg0n/static/js/3.c51dc53f.chunk.js.map",
+    "index.html": "https://adoel90.github.io/csb-cdg0n/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "https://adoel90.github.io/csb-cdg0n/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.8569702b.chunk.js.LICENSE.txt": "https://adoel90.github.io/csb-cdg0n/static/js/2.8569702b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "https://adoel90.github.io/csb-cdg0n/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2fdbe6a0.js",
+    "static/js/2.8569702b.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.2e722eba.chunk.js"
+  ]
+}
